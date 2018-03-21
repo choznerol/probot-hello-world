@@ -1,5 +1,6 @@
 Probot Hello World
 ==========================
+[![Build Status](https://travis-ci.org/choznerol/probot-hello-world.svg?branch=master)](https://travis-ci.org/choznerol/probot-hello-world)
 
 This repo is used to demo [Greeting Probot](https://github.com/settings/apps/greeting-probot), a simple probot responding to newly created issue and pull-request with some messages.
 
